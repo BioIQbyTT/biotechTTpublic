@@ -65,4 +65,3 @@ NUVL,Nuvalent,92,85,"Q3 readout","Turning Point acquisition",3000
 MRUS,Merus,89,83,"ASCO 2025","Bicara comps",1800
 ...
 
-streamlit run app.py
